@@ -1,0 +1,1 @@
+var e=`/`.replace(/\/$/,``);function t(t){if(!t.startsWith(`/`)||t.startsWith(`//`)||/[\\\r\n]/.test(t))throw Error(`Expected a local absolute path`);return e+t}function n(t){return e&&(t===e||t.startsWith(e+`/`))?t.slice(e.length)||`/`:t}export{t as n,n as t};

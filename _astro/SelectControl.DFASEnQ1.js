@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime.BihVULtW.js";import{t}from"./Icon.BuQY6ozN.js";var n=e();function r({children:e,...r}){return(0,n.jsxs)(`span`,{className:`select-control`,children:[(0,n.jsx)(`select`,{...r,children:e}),(0,n.jsx)(t,{name:`chevron`,size:18})]})}export{r as t};

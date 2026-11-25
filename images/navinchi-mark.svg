@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 116" width="144" height="116" role="img" aria-labelledby="title">
+  <title id="title">なびんち みつかる道</title>
+  <path d="M16 94C43 94 91 111 126 80L69 72Z" fill="#c6e1e5"/>
+  <path d="M16 94V78C16 51 34 34 51 34C72 34 75 56 83 72C97 103 124 87 128 58" fill="none" stroke="#548d94" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="132" cy="29" r="10.5" fill="#ffbf00"/>
+</svg>
